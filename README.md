@@ -6,8 +6,13 @@ I work on endpoint management and app packaging, and almost every MSI I get goes
 
 This is my first project on GitHub, so if you spot something dumb in the code, feel free to open an issue. I'm here to learn.
 
-![SilentDrop screenshot](docs/screenshot.png)
-<!-- TODO: take a proper screenshot and drop it in docs/ -->
+<img width="698" height="690" alt="image" src="https://github.com/user-attachments/assets/aefb73b2-c5a4-4c84-8d62-e6f70ee647d3" />
+
+<img width="862" height="577" alt="image" src="https://github.com/user-attachments/assets/2040a902-4568-48ce-b019-475ecbecca89" />
+
+<img width="792" height="345" alt="image" src="https://github.com/user-attachments/assets/46366250-f9f1-40e1-bc45-3d0fc74ca595" />
+
+
 
 ## What it does
 
